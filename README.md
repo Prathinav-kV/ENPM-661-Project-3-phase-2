@@ -15,6 +15,8 @@ Pygame: For visualization of the path and obstacles
 
 A Python environment capable of executing scripts (e.g., command line, IDE)
 
+Math, Datetime, queue, sys 
+
 ### How to Run
 
 Open a terminal or command line interface.
