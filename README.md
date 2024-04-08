@@ -2,6 +2,21 @@
 
 # Part 1
 
+This document provides instructions for running a Python script designed for path planning and animation using the A* algorithm in a simulated environment with obstacles. The script calculates a path for a robot given start and goal positions, obstacles, and robot characteristics, then visualizes the path using pygame.
+
+### Dependencies
+To run this program, ensure you have the following dependencies installed:
+
+Python 3.5 or newer
+NumPy: For numerical calculations
+Pygame: For visualization of the path and obstacles
+A Python environment capable of executing scripts (e.g., command line, IDE)
+
+Open a terminal or command line interface.
+
+Navigate to the directory containing the script.
+
+Run the script by executing: python3 path_planning_and_animation.py
 
 
 # Part 2
