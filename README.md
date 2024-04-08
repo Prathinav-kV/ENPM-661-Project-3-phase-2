@@ -21,7 +21,7 @@ Open a terminal or command line interface.
 
 Navigate to the directory containing the script.
 
-Run the script by executing: python3 proj3p2_sarang_prathinav..py.py
+Run the script by executing: python3 proj3p2_sarang_prathinav..py
 
 The program will prompt you to enter several parameters, including clearance, start and goal positions, and wheel RPMs. Enter each value and press Enter.
 
