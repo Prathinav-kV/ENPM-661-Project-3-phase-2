@@ -3,6 +3,7 @@
 # Part 1
 
 
+
 # Part 2
 This README document provides instructions on how to run and launch the Turtlebot Close Loop Controller ROS Node, designed for navigating a Turtlebot through a predefined path in an open-loop manner. The node, developed in Python, calculates the path based on inputs such as clearance, start and goal positions, and desired wheel RPMs.
 
