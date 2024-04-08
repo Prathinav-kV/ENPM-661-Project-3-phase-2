@@ -16,7 +16,25 @@ Open a terminal or command line interface.
 
 Navigate to the directory containing the script.
 
-Run the script by executing: python3 path_planning_and_animation.py
+Run the script by executing: python3 proj3p2_sarang_prathinav..py.py
+
+The program will prompt you to enter several parameters, including clearance, start and goal positions, and wheel RPMs. Enter each value and press Enter.
+
+### Example Input
+
+Enter the following example set of inputs when prompted by the program:
+
+Clearance: 2
+Start X: 50
+Start Y: 100
+Start Theta: 0 (degrees)
+Goal X: 550
+Goal Y: 100
+RPM1: 120
+RPM2: 100
+
+### Visualization
+After calculating the path, the program will visualize the robot's movement from the start position to the goal position, navigating around the obstacles using pygame.
 
 
 # Part 2
@@ -64,6 +82,8 @@ UID: 120380983
 Sarang Shibu
 Directory ID: sarang
 UID: 120254307
+
+
 
 
 ### Links:
