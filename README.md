@@ -51,10 +51,15 @@ This README document provides instructions on how to run and launch the Turtlebo
 To run this program, you need to have the following libraries and ROS packages installed:
 
 ROS 2 (Galactic)
+
 Python 3.5 or newer
+
 numpy for numerical operations
+
 rclpy for ROS 2 Python clients
+
 geometry_msgs and nav_msgs for ROS 2 message types
+
 The path_finder.py that performs the A star algorithm to find the path
 
 ### How to Run
