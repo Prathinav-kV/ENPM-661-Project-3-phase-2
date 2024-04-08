@@ -8,9 +8,14 @@ This document provides instructions for running a Python script designed for pat
 To run this program, ensure you have the following dependencies installed:
 
 Python 3.5 or newer
+
 NumPy: For numerical calculations
+
 Pygame: For visualization of the path and obstacles
+
 A Python environment capable of executing scripts (e.g., command line, IDE)
+
+### How to Run
 
 Open a terminal or command line interface.
 
